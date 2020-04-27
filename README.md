@@ -1,2 +1,2 @@
-# sarahtest.github.io
+# sarahtest
 testing respositoy for GitHub pages
