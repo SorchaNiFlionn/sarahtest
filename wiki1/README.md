@@ -24,8 +24,8 @@ are listed below.
 As well as that, there are groups related to the Technical Infrastructure Group which also have their own communities and
 WIKIs.
 1. Technical Infrastructure Testing.
-2. Third Party Updates (https://ibm.biz/BdENdX)
-3. Upgrade Helper (https://ibm.biz/BdHDCz)
+2. [Third Party Updates](https://ibm.biz/BdENdX)
+3. [Upgrade Helper](https://ibm.biz/BdHDCz)
 
 ### People
 The following are the people who currently make up the Technical Infrastructure Group.
