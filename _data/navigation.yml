@@ -1,12 +1,12 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
+- title: Getting Started
   url: /
 
-- title: SUMMARY
-  url: /group/
+- title: Table of Contents
+  url: /summary.md/
   sublinks:
-    - title: wiki1
-      url: /group/si1
+    - title: Wiki 1
+      url: /wiki1/README.md
     - title: Wiki 2
-      url: /group/si2
+      url: /wiki2/README.md
