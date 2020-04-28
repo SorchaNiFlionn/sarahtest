@@ -1,0 +1,22 @@
+{
+  "name": "Sarah Test",
+  "version": "0.0.1",
+  "description": "The test for git pages",
+  "scripts": {
+    "precommit": "npm run format",
+    "format": "prettier --ignore-path ./.prettierignore --config .prettierrc --write '{*.md,**/*.md}'",
+    "serve": "npm run format && gitbook install && gitbook serve",
+    "jenkins:build": "rm -rf node_modules && npm install && npm update && npm run format && gitbook build"
+  },
+  "devDependencies": {
+    "gitbook-cli": "2.3.2",
+    "husky": "0.14.3",
+    "prettier": "1.9.2"
+  },
+  "dependencies": {
+    "gitbook-plugin-edit-link": "2.0.2",
+    "gitbook-plugin-expandable-chapters": "0.2.0",
+    "gitbook-plugin-summary": "0.2.0",
+    "gitbook-plugin-todo": "0.1.3"
+  }
+}
