@@ -56,3 +56,4 @@ The following are the people who currently make up the Technical Infrastructure 
 
 ## Wiki
 
+* [Feature and Code Removal](feature-and-code-removal.md)
